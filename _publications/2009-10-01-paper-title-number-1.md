@@ -1,15 +1,7 @@
----
-title: "Paper Title Number 1"
-collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
----
-This paper is about the number 1. The number 2 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+* On modified Euler schemes for McKean-Valsov stochastic differential equations with super-linear coefficients. With Qingshuo Song, Xiaojie Wang, Zhongqiang Zhang, and Yuying Zhao. Submitted.
+* Long-time behavior of stochastic LQ control problem. With Sixian Jin and Qingshuo Song. Submitted.
+* Convergence rate of LQG mean field games with common noise. With Qingshuo Song and Jiaxuan Ye.
+arXiv:2307.00695. [arXix](https://arxiv.org/abs/2307.00695)
+* The convergence rate of the equilibrium measure for the hybrid LQG mean field game. With Peiyao Lai,
+Qingshuo Song, and Jiaxuan Ye. Accepted by Nonlinear Analysis: Hybrid Systems. [Journal](https://www.sciencedirect.com/science/article/pii/S1751570X23001255?dgcid=coauthor) [arXiv](https://arxiv.org/abs/2106.04762)
+* On the graphon mean field game equations: Individual agent affine dynamics and mean field dependent performance functions. With Peter E. Caines, Daniel Ho, Minyi Huang, and Qingshuo Song. ESAIM: COCV, 28 (2022), Article Number: 24. [Journal](https://www.esaim-cocv.org/articles/cocv/pdf/2022/01/cocv210017.pdf) [arXiv](https://arxiv.org/abs/2009.12144)
