@@ -17,7 +17,7 @@ Preprints
 1. On modified Euler schemes for McKean-Valsov stochastic differential equations with super-linear coefficients. With Qingshuo Song, Xiaojie Wang, Zhongqiang Zhang, and Yuying Zhao. Submitted.
 1. Long-time behavior of stochastic LQ control problem. With Sixian Jin and Qingshuo Song. Submitted.
 1. Convergence rate of LQG mean field games with common noise. With Qingshuo Song and Jiaxuan Ye.
-arXiv:2307.00695. [arXix](https://arxiv.org/abs/2307.00695)
+arXiv:2307.00695. [arXiv](https://arxiv.org/abs/2307.00695)
 
 Publications
 ======
