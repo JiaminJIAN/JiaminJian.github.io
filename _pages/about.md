@@ -11,3 +11,44 @@ redirect_from:
 I am a Ph.D. candidate in [Department of Mathematical sciences](https://www.wpi.edu/academics/departments/mathematical-sciences) at [WPI](https://www.wpi.edu). My research interest includes stochastic control and mean field games. At WPI, my advisor is Prof. [Qingshuo Song](https://www.wpi.edu/people/faculty/qsong).
 
 I got my Master's degree from the City University of Hong Kong in 2019 and my Bachelor's degree from Nankai University in 2018.
+
+Publications
+======
+1. On modified Euler schemes for McKean-Valsov stochastic differential equations with super-linear coefficients. With Qingshuo Song, Xiaojie Wang, Zhongqiang Zhang, and Yuying Zhao. Submitted.
+1. Long-time behavior of stochastic LQ control problem. With Sixian Jin and Qingshuo Song. Submitted.
+1. Convergence rate of LQG mean field games with common noise. With Qingshuo Song and Jiaxuan Ye.
+arXiv:2307.00695. [arXix](https://arxiv.org/abs/2307.00695)
+1. The convergence rate of the equilibrium measure for the hybrid LQG mean field game. With Peiyao Lai,
+Qingshuo Song, and Jiaxuan Ye. Accepted by Nonlinear Analysis: Hybrid Systems. [Journal](https://www.sciencedirect.com/science/article/pii/S1751570X23001255?dgcid=coauthor) [arXiv](https://arxiv.org/abs/2106.04762)
+1. On the graphon mean field game equations: Individual agent affine dynamics and mean field dependent performance functions. With Peter E. Caines, Daniel Ho, Minyi Huang, and Qingshuo Song. ESAIM: COCV, 28 (2022), Article Number: 24. [Journal](https://www.esaim-cocv.org/articles/cocv/pdf/2022/01/cocv210017.pdf) [arXiv](https://arxiv.org/abs/2009.12144)
+
+Teaching Experience
+======
+**Teaching Assistant, WPI**
+- MA 1022: Calculus II (Fall 2021; Summer 2022)
+- MA 1023: Calculus III (Summer 2022)
+- MA 2051: Ordinary differential equation (Spring 2022)
+- MA 2210: Mathematical methods in decision making (Spring 2021; Spring 2022)
+- MA 2071: Linear algebra (Summer 2022; Summer 2023)
+- MA 2631: Probability theory (Spring 2021; Spring 2022; Summer 2023)
+- MA 3257: Numerical methods for linear and nonlinear systems (Spring 2021)
+- MA 3831: Principles of real analysis I (Fall 2023)
+- MA 3832: Principles of real analysis II (Fall 2023)
+- MA 501: Engineering mathematics (Fall 2023)
+- MA 503: Lebesgue measure and integration (Fall 2022)
+- MA 510: Numerical methods (Fall 2022)
+
+Invited talks
+======
+- Financial/Actuarial Mathematics Seminar, University of Michigan, December 20, 2023
+- The 36th New England Statistics Symposium, Frontiers of Mathematical Finance, Boston University, June
+5, 2023
+- Mathematical Finance Seminar, Worcester Polytechnic Institute, December 5, 2022
+- Department of Industrial Engineering and Operations Research, University of California, Berkeley, Prof. Xin Guo’s group meeting, December 1, 2020
+
+
+
+
+
+
+
