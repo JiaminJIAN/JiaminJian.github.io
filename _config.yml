@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jiamin Jian / Personal Homepage"
+title                    : "Jiamin Jian/Personal Homepage"
 title_separator          : "-"
 name                     : &name "Jiamin Jian"
-description              : &description "personal description"
+description              : &description "Ph.D. candidate from WPI"
 url                      : https://JiaminJian.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "JiaminJIAN/JiaminJian.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Jiamin Jian"
   avatar           : "JiaminJian.png"
-  bio              : "Ph.D. candidate at WPI"
+  bio              : "Ph.D. candidate from WPI"
   location         : "Worcester, MA"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
