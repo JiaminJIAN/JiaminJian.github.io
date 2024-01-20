@@ -12,7 +12,7 @@ I am a Ph.D. candidate in [Department of Mathematical sciences](https://www.wpi.
 
 Before that, I got my Master's degree in Mathematical Finance and Statistics from the [City University of Hong Kong](https://www.cityu.edu.hk/ma/) in 2019 and my Bachelor's degrees in Mathematics and Applied Mathematics, and Financial Management from [Nankai University](https://en.nankai.edu.cn) in 2018.
 
-Preprints
+Contact
 ======
 - Email: jjian2@wpi.edu
 - Address: 100 Institute Road, Worcester, MA 01609
