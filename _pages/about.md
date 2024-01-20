@@ -14,6 +14,12 @@ Before that, I got my Master's degree in Mathematical Finance and Statistics fro
 
 Preprints
 ======
+- Email: jjian2@wpi.edu
+- Address: 100 Institute Road, Worcester, MA 01609
+- [Curriculum Vitae](https://github.com/JiaminJIAN/JiaminJian.github.io/blob/master/assets/CV_Jiamin%20Jian.pdf)
+
+Preprints
+======
 1. On modified Euler schemes for McKean-Valsov stochastic differential equations with super-linear coefficients.  
    With Qingshuo Song, Xiaojie Wang, Zhongqiang Zhang, and Yuying Zhao.  
    *Submitted*.
