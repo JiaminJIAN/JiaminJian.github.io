@@ -10,7 +10,7 @@ redirect_from:
 
 I am a Ph.D. candidate in [Department of Mathematical sciences](https://www.wpi.edu/academics/departments/mathematical-sciences) at [Worcester Polytechnic Institute](https://www.wpi.edu) under the supervision of Prof. [Qingshuo Song](https://www.wpi.edu/people/faculty/qsong). My research interest includes stochastic control, mean field games and financial mathematics.
 
-Before that, I got my Master's degree in Mathematical Finance and Statistics from the [City University of Hong Kong](https://www.cityu.edu.hk/ma/) in 2019 and my Bachelor's degrees in Mathematics and Applied Mathematics, and Financial Management from [Nankai University](https://en.nankai.edu.cn) in 2018.
+Before that, I got my Master's degree in Mathematical Finance and Statistics from [City University of Hong Kong](https://www.cityu.edu.hk/ma/) in 2019 and my Bachelor's degrees in Mathematics and Applied Mathematics, and Financial Management from [Nankai University](https://en.nankai.edu.cn) in 2018.
 
 Contact
 ======
