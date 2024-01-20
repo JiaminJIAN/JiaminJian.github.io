@@ -5,7 +5,7 @@ author_profile: true
 ---
 <br>
 
-Preprints
+**Preprints**
 ======
 1. On modified Euler schemes for McKean-Valsov stochastic differential equations with super-linear coefficients.  
    With Qingshuo Song, Xiaojie Wang, Zhongqiang Zhang, and Yuying Zhao.  
@@ -17,7 +17,7 @@ Preprints
    With Qingshuo Song and Jiaxuan Ye.  
    *arXiv:2307.00695. [[arXiv]](https://arxiv.org/abs/2307.00695)*
 
-Publications
+**Publications**
 ======
 1. The convergence rate of the equilibrium measure for the hybrid LQG mean field game.  
    With Peiyao Lai, Qingshuo Song, and Jiaxuan Ye.  
