@@ -4,6 +4,7 @@ title: "Teaching Experience"
 author_profile: true
 ---
 <br>
+
 Teaching Experience
 ======
 **Teaching Assistant, WPI**
