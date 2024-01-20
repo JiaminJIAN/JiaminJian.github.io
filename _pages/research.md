@@ -1,6 +1,6 @@
 ---
 permalink: /research/
-title: "Research"
+title: "Publications and Preprints"
 author_profile: true
 ---
 <br>
