@@ -4,47 +4,25 @@ title: "Talks and Posters"
 author_profile: true
 ---
 <br>
-Adaptive Robust Optimal Execution with Price Impact  
-SIAM Annual Meeting, 2022
 
-Market Making and Derivative Pricing via Dynamic Conic Finance  
-Decision Making and Uncertainty, Institute for Mathematical and Statistical Innovation, 2022
 
-Nonparametric Adaptive Bayesian Optimal Control  
-SIAM Conference on Financial Mathematics & Engineering, 2021
+Invited talks
+======
+- Financial/Actuarial Mathematics Seminar, University of Michigan, December 20, 2023
+- The 36th New England Statistics Symposium, Frontiers of Mathematical Finance, Boston University, June
+5, 2023
+- Mathematical Finance Seminar, Worcester Polytechnic Institute, December 5, 2022
+- Department of Industrial Engineering and Operations Research, University of California, Berkeley, Prof. Xin Guo’s group meeting, December 1, 2020
 
-Nonparametric Adaptive Bayesian Optimal Control  
-Applied Mathematics Colloquia, Illinois Institute of Technology, 2021
-
-Nonparametric Adaptive Bayesian Optimal Control  
-Mathematical Finance Colloquium, University of Southern California, 2020
-
-Adaptive Robust Stochastic Control  
-Financial/Actuarial Mathematics Seminar, University of Michigan, Ann Arbor, 2020
-
-Parametric Optimization, Robust Stochastic Control and Statistical Surrogates  
-SIAM Conference on Financial Mathematics & Engineering, Toronto, 2019
-
-Parametric Optimization, Robust Stochastic Control and Statistical Surrogates  
-9th Western Conference on Mathematical Finance, Los Angeles, 2018
-
-Nonparametric Adaptive Robust Control under Model Uncertainty  
-Department Seminar Fall 2018, University of California, Santa Barbara, 2018
-
-Adaptive Robust Stochastic Control and Statistical Surrogates  
-Robust Techniques in Quantitative Finance, Oxford, UK, 2018
-
-Adaptive Robust Trading under Model Uncertainty  
-10th World Congress of the Bachelier Finance Society, Dublin, Ireland, 2018
-
-Adaptive Robust Hedging under Model Uncertainty  
-Mathematical Finance Colloquium, University of Southern California, 2017
-
-Market Making via Sub-scale Invariant Dynamic Acceptability Indices  
-CFMAR Seminar, University of California, Santa Barbara, 2017
-
-Adaptive Robust Hedging under Model Uncertainty  
-SIAM Conference on Financial Mathematics & Engineering, Austin, 2016
-
-Dynamic Conic Finance via Backward Stochastic Difference Equations  
-Methods of Mathematical Finance, Pittsburgh, June 2015
+Conferences Attendance
+======
+- Symposium on Frontiers of Mathematics and Analysis, Control and Application of Complex Systems, Shandong University, Online, November 15, 2023
+- SIAM Conference on Financial Mathematics and Engineering, Philadelphia, June 6-9, 2023
+- The 36th New England Statistics Symposium, Boston, June 5, 2023
+- Joint Mathematics Meetings, Boston, January 6-7, 2023
+- Gene Golub SIAM Summer School, Gran Sasso Science Institute, L’Aquila, Italy, August 1-13, 2022
+- Symposium on Stochastic Hybrid Systems and Applications (Part II), University of Connecticut, Connecticut, November 12-13, 2021
+- 5th Eastern Conference on Mathematical Finance, Rutgers University, online, October 1-3, 2021
+- Symposium on Stochastic Hybrid Systems and Applications (Part I), University of Connecticut,
+Connecticut, July 8-9, 2021
+- IMSI Summer Short Program, Introduction to Mean Field Games and Applications, online, June 1-25, 2021
