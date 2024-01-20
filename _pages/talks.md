@@ -13,7 +13,7 @@ author_profile: true
 - Mathematical Finance Seminar, Worcester Polytechnic Institute, December 5, 2022
 - Department of Industrial Engineering and Operations Research, University of California, Berkeley, Prof. Xin Guo’s group meeting, December 1, 2020
 
-**Conferences Attendance**
+**Conferences attendance**
 - Symposium on Frontiers of Mathematics and Analysis, Control and Application of Complex Systems, Shandong University, Online, November 15, 2023
 - SIAM Conference on Financial Mathematics and Engineering, Philadelphia, June 6-9, 2023
 - The 36th New England Statistics Symposium, Boston, June 5, 2023
