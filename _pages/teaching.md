@@ -5,8 +5,6 @@ author_profile: true
 ---
 <br>
 
-Teaching Experience
-======
 **Teaching Assistant, Worcester Polytechnic Institute**
 - MA 1022: Calculus II (Fall 2021; Summer 2022)
 - MA 1023: Calculus III (Summer 2022)
