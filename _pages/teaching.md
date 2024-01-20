@@ -5,7 +5,7 @@ author_profile: true
 ---
 <br>
 
-**Teaching Assistant, Worcester Polytechnic Institute**
+**Worcester Polytechnic Institute, Teaching Assistant**
 - MA 1022: Calculus II (Fall 2021; Summer 2022)
 - MA 1023: Calculus III (Summer 2022)
 - MA 2051: Ordinary differential equation (Spring 2022)
