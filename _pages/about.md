@@ -40,15 +40,6 @@ Publications
    *ESAIM: Control, Optimisation and Calculus of Variations, Vol. 28, Article 24, 24 pages, 2022. [[Journal]](https://www.esaim-cocv.org/articles/cocv/pdf/2022/01/cocv210017.pdf), [[arXiv]](https://arxiv.org/abs/2009.12144)*
 
 
-Professional Service
-======
-**Referee for Peer-reviewed Journals**
-- Asian Journal of Control
-- IEEE Control Systems Letters
-- IEEE Transactions on Automatic Control
-- IMA Journal of Mathematical Control and Information
-- SIAM Journal on Control and Optimization
-
 
 
 
