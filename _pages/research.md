@@ -4,21 +4,24 @@ title: "Research"
 author_profile: true
 ---
 <br>
-**Current Projects**
 
-Adaptive Robust Optimal Execution
+Preprints
+======
+1. On modified Euler schemes for McKean-Valsov stochastic differential equations with super-linear coefficients.  
+   With Qingshuo Song, Xiaojie Wang, Zhongqiang Zhang, and Yuying Zhao.  
+   *Submitted*.
+1. Long-time behavior of stochastic LQ control problem.  
+   With Sixian Jin and Qingshuo Song.  
+   *Submitted*.
+1. Convergence rate of LQG mean field games with common noise.  
+   With Qingshuo Song and Jiaxuan Ye.  
+   *arXiv:2307.00695. [[arXiv]](https://arxiv.org/abs/2307.00695)*
 
-**Publications & Submissions**
-
-<ol>
-    <li value="10">Data-Driven Nonparametric Robust Control under Dependence Uncertainty (with Erhan Bayraktar) Preprint (25 pages), 2022. <a href="https://arxiv.org/abs/2209.04976">arXiv</a>, <a href="http://taochen.im/files/copula.pdf">PDF</a></li>
-    <li value="9">On Parametric Optimal Execution and Machine Learning Surrogates (with Michael Ludkovski and Moritz Voss) Preprint (29 pages), 2022. <a href="https://arxiv.org/abs/2204.08581">arXiv</a>, <a href="http://taochen.im/files/execution.pdf">PDF</a></li>
-    <li value="8">Nonparametric Adaptive Robust Control under Model Uncertainty (with Erhan Bayraktar) Preprint (24 pages), 2022. <a href="https://arxiv.org/abs/2202.10391">arXiv</a>, <a href="http://taochen.im/files/nonparametric.pdf">PDF</a></li>
-    <li value="7">Risk-Sensitive Markov Decision Problems under Model Uncertainty: Finite Time Horizon Case (with Tomasz R. Bielecki and Igor Cialenco) Preprint (21 pages), 2021. <a href="https://arxiv.org/abs/2104.06915">arXiv</a>, <a href="http://taochen.im/files/risk-sensitive.pdf">PDF</a></li>
-    <li value="6">Nonparametric Adaptive Bayesian Stochastic Control under Model Uncertainty (with Jiyoun Myung) Preprint (27 pages), 2020. <a href="https://arxiv.org/abs/2011.04804">arXiv</a>, <a href="http://taochen.im/files/AdaptiveBayesian.pdf">PDF</a></li>
-	<li value="5">Time-Inconsistent Markovian Control Problems under Model Uncertainty with Application to the Mean-Variance Portfolio Selection (with Tomasz R. Bielecki and Igor Cialenco) International Journal of Theoretical and Applied Finance, 24(1). (24 pages), 2021. <a href="https://www.worldscientific.com/doi/abs/10.1142/S0219024921500035">DOI:10.1142/S0219024921500035</a>, <a href="http://taochen.im/files/Time-Inconsistent.pdf">PDF</a></li>
-	<li value="4">A Machine Learning Approach to Adaptive Robust Utility Maximization and Hedging (with Michael Ludkovski) SIAM Journal on Financial Mathematics, 12(3), 1226-1256. (33 pages), 2021. <a href="https://epubs.siam.org/doi/abs/10.1137/20M1336023">DOI:10.1137/20M1336023</a>, <a href="http://taochen.im/files/optInvInterp.pdf">PDF</a></li>
-	<li value="3">Adaptive Robust Control under Model Uncertainty (with Tomasz R. Bielecki, Igor Cialenco, Areski Cousin and Monique Jeanblanc) SIAM Journal on Control and Optimization, 57(2), 925-946. (22 pages), 2019. <a href="https://doi.org/10.1137/17M1137917">DOI:10.1137/17M1137917</a>, <a href="http://taochen.im/files/Adaptive-Robust-Control.pdf">PDF</a></li>
-    <li value="2">Recursive Construction of Confidence Regions (with Tomasz R. Bielecki and Igor Cialenco) Electronic Journal of Statistics 11(2), 4674-4700. (27 pages), 2017. <a href="http://dx.doi.org/10.1214/17-EJS1362">DOI:10.1214/17-EJS1362</a>, <a href="http://taochen.im/files/ConfIntervals.pdf">PDF</a></li>
-    <li value="1">Dynamic Conic Finance via Backward Stochastic Difference Equations (with Tomasz R. Bielecki and Igor Cialenco) SIAM Journal on Financial Mathematics, 6(1), 1068-1122. (55 pages), 2015. <a href="http://epubs.siam.org/doi/10.1137/141002013">DOI:10.1137/141002013</a>, <a href="http://taochen.im/files/BCC2014_Conic-BSDEs.pdf">PDF</a></li>
-</ol>
+Publications
+======
+1. The convergence rate of the equilibrium measure for the hybrid LQG mean field game.  
+   With Peiyao Lai, Qingshuo Song, and Jiaxuan Ye.  
+   *Nonlinear Analysis: Hybrid Systems, Vol. 52, 28 pages, 2024. [[Journal]](https://www.sciencedirect.com/science/article/pii/S1751570X23001255?dgcid=coauthor), [[arXiv]](https://arxiv.org/abs/2106.04762)*
+1. On the graphon mean field game equations: Individual agent affine dynamics and mean field dependent performance functions.  
+   With Peter E. Caines, Daniel Ho, Minyi Huang, and Qingshuo Song.  
+   *ESAIM: Control, Optimisation and Calculus of Variations, Vol. 28, Article 24, 24 pages, 2022. [[Journal]](https://www.esaim-cocv.org/articles/cocv/pdf/2022/01/cocv210017.pdf), [[arXiv]](https://arxiv.org/abs/2009.12144)*
