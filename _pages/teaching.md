@@ -4,26 +4,18 @@ title: "Teaching Experience"
 author_profile: true
 ---
 <br>
-**Department of Mathematics, UM**
-
-MATH 116 (Calculus 2), W2022  
-MATH 526 (Discrete State Stochastic Processes), F2020  
-MATH 623 (Computational Finance), W2021, F2021
-
-**Department of Statistics and Applied Probability, UCSB**
-
-PSTAT 120A (Probability and Statistics), F2017, 2018, W2019, S2018, M2018, 2019  
-PSTAT 160A (Applied Stochastic Process), F2019, W2020  
-PSTAT 170 (Introduction to Mathematical Finance), W2018, 2019, S2019, 2020  
-PSTAT 171 (Mathematics of Fixed Income Market), S2019, W2020  
-PSTAT 176/276 (Advanced Mathematical Finance), S2018, 2020  
-PSTAT 193 (Internship in Statistics), F2018  
-PSTAT 199 (Independent Study), M2018, S2020
-
-**Department of Applied Mathematics, IIT**
-
-MATH 252 (Introduction to Differential Equations), F2016, S2017  
-MATH 333 (Matrix Algebra and Complex Variables), S2017  
-MATH 474 (Probability and Statistics), M2017
-
-\* F: Fall, W: Winter, S: Spring, M: Summer
+**Teaching Experience**
+======
+**Teaching Assistant, WPI**
+- MA 1022: Calculus II (Fall 2021; Summer 2022)
+- MA 1023: Calculus III (Summer 2022)
+- MA 2051: Ordinary differential equation (Spring 2022)
+- MA 2210: Mathematical methods in decision making (Spring 2021; Spring 2022)
+- MA 2071: Linear algebra (Summer 2022; Summer 2023)
+- MA 2631: Probability theory (Spring 2021; Spring 2022; Summer 2023)
+- MA 3257: Numerical methods for linear and nonlinear systems (Spring 2021)
+- MA 3831: Principles of real analysis I (Fall 2023)
+- MA 3832: Principles of real analysis II (Fall 2023)
+- MA 501: Engineering mathematics (Fall 2023)
+- MA 503: Lebesgue measure and integration (Fall 2022)
+- MA 510: Numerical methods (Fall 2022)
