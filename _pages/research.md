@@ -12,9 +12,6 @@ author_profile: true
 1. Long-time behavior of stochastic LQ control problem.  
    With Sixian Jin and Qingshuo Song.  
    *Submitted*.
-1. Convergence rate of LQG mean field games with common noise.  
-   With Qingshuo Song and Jiaxuan Ye.  
-   *arXiv:2307.00695. [[arXiv]](https://arxiv.org/abs/2307.00695)*
 
 **Publications**
 1. Convergence rate of LQG mean field games with common noise.  
