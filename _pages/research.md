@@ -9,7 +9,7 @@ author_profile: true
 1. On modified Euler schemes for McKean-Valsov stochastic differential equations with super-linear coefficients.  
    With Qingshuo Song, Xiaojie Wang, Zhongqiang Zhang, and Yuying Zhao.  
    *Submitted*.
-1. Long-time behaviors of stochastic linear-quadratic optimal control problems. 
+1. Long-time behaviors of stochastic linear-quadratic optimal control problems.  
    With Sixian Jin, Qingshuo Song and Jiongmin Yong.  
    *Submitted*.
 
