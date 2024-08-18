@@ -8,14 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in [Department of Mathematical sciences](https://www.wpi.edu/academics/departments/mathematical-sciences) at [Worcester Polytechnic Institute](https://www.wpi.edu) under the supervision of Prof. [Qingshuo Song](https://www.wpi.edu/people/faculty/qsong). My research interest includes stochastic control, mean field games and financial mathematics.
+I am a Postdoctoral Asistant Professor in [Department of Mathematics](https://lsa.umich.edu/math) at [University of Michigan](https://umich.edu). My research interests include stochastic control, mean field games, and financial mathematics.
 
-Before that, I got my Master's degree in Mathematical Finance and Statistics from [City University of Hong Kong](https://www.cityu.edu.hk/ma/) in 2019 and my Bachelor's degrees in Mathematics and Applied Mathematics, and Financial Management from [Nankai University](https://en.nankai.edu.cn) in 2018.
+Before that, I got my Ph.D. degree in the [Department of Mathematical sciences](https://www.wpi.edu/academics/departments/mathematical-sciences) at [Worcester Polytechnic Institute](https://www.wpi.edu) in May 2024, under the supervision of Prof. [Qingshuo Song](https://www.wpi.edu/people/faculty/qsong).
+
+I also hold a Master's degree in Mathematical Finance and Statistics from [City University of Hong Kong](https://www.cityu.edu.hk/ma/) (July 2019) and Bachelor's degrees in Mathematics and Applied Mathematics, and Financial Management from [Nankai University](https://en.nankai.edu.cn) (June 2018).
 
 Contact
 ======
-- Email: jjian2@wpi.edu
-- Address: 100 Institute Road, Worcester, MA 01609
+- Email: jiaminj@umich.edu
+- Address: 2074 East Hall, 530 Church Street, Ann Arbor, MI 48109-1043
 - [Curriculum Vitae](https://github.com/JiaminJIAN/JiaminJian.github.io/blob/master/assets/CV_Jiamin%20Jian.pdf)
 
 
@@ -25,8 +27,8 @@ Preprints
 1. On modified Euler schemes for McKean-Valsov stochastic differential equations with super-linear coefficients.  
    With Qingshuo Song, Xiaojie Wang, Zhongqiang Zhang, and Yuying Zhao.  
    *Submitted*.
-1. Long-time behavior of stochastic LQ control problem.  
-   With Sixian Jin and Qingshuo Song.  
+1. Long-time behaviors of stochastic linear-quadratic optimal control problems.
+   With Sixian Jin, Qingshuo Song and Jiongmin Yong.  
    *Submitted*.
 
 Publications
