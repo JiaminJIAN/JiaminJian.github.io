@@ -5,6 +5,9 @@ author_profile: true
 ---
 <br>
 
+**University of Michigan, Lecturer**
+- MATH 423: Mathematics of Finance (Fall 2024)
+
 **Worcester Polytechnic Institute, Teaching Assistant**
 - MA 1022: Calculus II (Fall 2021; Summer 2022)
 - MA 1023: Calculus III (Summer 2022)
