@@ -7,6 +7,7 @@ author_profile: true
 
 
 **Invited talks**
+- Financial/Actuarial Mathematics Seminar, University of Michigan, September 25, 2024
 - Mathematics Seminar, School of Mathematics and Statistics, Huazhong University of Science and Technology, June 25, 2024
 - Mathematics Seminar, School of Control Science and Engineering, Shandong University, May 28, 2024
 - Informal Systems Seminars, Centre for Intelligent Machines, McGill University, February 16, 2024
