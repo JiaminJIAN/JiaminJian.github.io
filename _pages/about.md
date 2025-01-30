@@ -18,7 +18,7 @@ Contact
 ======
 - Email: jiaminj@umich.edu
 - Address: 2074 East Hall, 530 Church Street, Ann Arbor, MI 48109-1043
-- [Curriculum Vitae](https://github.com/JiaminJIAN/JiaminJian.github.io/blob/master/assets/CV_Jiamin%20Jian.pdf)
+<!--  [Curriculum Vitae](https://github.com/JiaminJIAN/JiaminJian.github.io/blob/master/assets/CV_Jiamin%20Jian.pdf) -->
 
 
 
