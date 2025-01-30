@@ -6,6 +6,7 @@ author_profile: true
 <br>
 
 **University of Michigan, Lecturer**
+- MATH 472: Numerical Methods with Financial Applications (Winter 2025)
 - MATH 423: Mathematics of Finance (Fall 2024)
 
 **Worcester Polytechnic Institute, Teaching Assistant**
