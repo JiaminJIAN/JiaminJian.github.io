@@ -6,10 +6,15 @@ author_profile: true
 <br>
 
 **Preprints**
+1. Ergodicity and turnpike properties of linear-quadratic mean field control problems.  
+   With Erhan Bayraktar.
+   *[[arXiv]](https://arxiv.org/pdf/2502.08935)*
 1. On modified Euler schemes for McKean-Valsov stochastic differential equations with super-linear coefficients.  
-   With Qingshuo Song, Xiaojie Wang, Zhongqiang Zhang, and Yuying Zhao.  
+   With Qingshuo Song, Xiaojie Wang, Zhongqiang Zhang, and Yuying Zhao.
+   *[[arXiv]](https://arxiv.org/pdf/2502.05057)*  
 1. Long-time behaviors of stochastic linear-quadratic optimal control problems.  
-   With Sixian Jin, Qingshuo Song and Jiongmin Yong.  
+   With Sixian Jin, Qingshuo Song and Jiongmin Yong.
+   *[[arXiv]](https://arxiv.org/pdf/2409.11633)*  
 
 **Publications**
 1. Convergence rate of LQG mean field games with common noise.  
