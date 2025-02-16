@@ -10,9 +10,9 @@ redirect_from:
 
 I am a Postdoctoral Assistant Professor in the [Department of Mathematics](https://lsa.umich.edu/math) at [University of Michigan](https://umich.edu). My research interests include stochastic control, mean field games, and financial mathematics.
 
-Before that, I got my Ph.D. degree in the [Department of Mathematical sciences](https://www.wpi.edu/academics/departments/mathematical-sciences) at [Worcester Polytechnic Institute](https://www.wpi.edu) in May 2024, under the supervision of Prof. [Qingshuo Song](https://www.wpi.edu/people/faculty/qsong).
+Before that, I got my Ph.D. in the [Department of Mathematical sciences](https://www.wpi.edu/academics/departments/mathematical-sciences) at [Worcester Polytechnic Institute](https://www.wpi.edu) in May 2024, under the supervision of Prof. [Qingshuo Song](https://www.wpi.edu/people/faculty/qsong).
 
-I also hold a Master's degree in Mathematical Finance and Statistics from [City University of Hong Kong](https://www.cityu.edu.hk/ma/) (July 2019) and Bachelor's degrees in Mathematics and Applied Mathematics, and Financial Management from [Nankai University](https://en.nankai.edu.cn) (June 2018).
+I also hold a master's degree in Mathematical Finance and Statistics from [City University of Hong Kong](https://www.cityu.edu.hk/ma/) (July 2019) and bachelor's degrees in Mathematics and Applied Mathematics, and Financial Management from [Nankai University](https://en.nankai.edu.cn) (June 2018).
 
 Contact
 ======
@@ -24,10 +24,15 @@ Contact
 
 Preprints
 ======
+1. Ergodicity and turnpike properties of linear-quadratic mean field control problems.  
+   With Erhan Bayraktar.
+   *[[arXiv]](https://arxiv.org/pdf/2502.08935)*
 1. On modified Euler schemes for McKean-Valsov stochastic differential equations with super-linear coefficients.  
-   With Qingshuo Song, Xiaojie Wang, Zhongqiang Zhang, and Yuying Zhao.  
+   With Qingshuo Song, Xiaojie Wang, Zhongqiang Zhang, and Yuying Zhao.
+   *[[arXiv]](https://arxiv.org/pdf/2502.05057)*  
 1. Long-time behaviors of stochastic linear-quadratic optimal control problems.  
    With Sixian Jin, Qingshuo Song and Jiongmin Yong.
+   *[[arXiv]](https://arxiv.org/pdf/2409.11633)*
 
 Publications
 ======
