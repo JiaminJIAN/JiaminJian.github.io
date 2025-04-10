@@ -15,7 +15,7 @@ author_profile: true
 
 **Publications**
 1. On modified Euler schemes for McKean-Valsov stochastic differential equations with super-linear coefficients.  
-   With Qingshuo Song, Xiaojie Wang, Zhongqiang Zhang, and Yuying Zhao.
+   With Qingshuo Song, Xiaojie Wang, Zhongqiang Zhang, and Yuying Zhao.  
    *Automatica, Vol. 177, 15 pages, 2025. [[Journal]]([https://link.springer.com/article/10.1007/s00186-024-00863-2](https://www.sciencedirect.com/science/article/pii/S0005109825001761)), [[arXiv]](https://arxiv.org/pdf/2502.05057)*
 1. Convergence rate of LQG mean field games with common noise.  
    With Qingshuo Song and Jiaxuan Ye.   
