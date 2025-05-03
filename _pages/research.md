@@ -19,7 +19,7 @@ author_profile: true
    *Automatica, Vol. 177 (112284), 15 pages, 2025. [[Journal]](https://www.sciencedirect.com/science/article/pii/S0005109825001761), [[arXiv]](https://arxiv.org/pdf/2502.05057)*
 1. Convergence rate of LQG mean field games with common noise.  
    With Qingshuo Song and Jiaxuan Ye.   
-   *Mathematical Methods of Operations Research, Vol. 99, 38 pages, 2024. [[Journal]](https://link.springer.com/article/10.1007/s00186-024-00863-2), [[arXiv]](https://arxiv.org/pdf/2307.00695)*
+   *Mathematical Methods of Operations Research, Vol. 99(3), 233--270, 2024. [[Journal]](https://link.springer.com/article/10.1007/s00186-024-00863-2), [[arXiv]](https://arxiv.org/pdf/2307.00695)*
 1. The convergence rate of the equilibrium measure for the hybrid LQG mean field game.  
    With Peiyao Lai, Qingshuo Song, and Jiaxuan Ye.  
    *Nonlinear Analysis: Hybrid Systems, Vol. 52, 28 pages, 2024. [[Journal]](https://www.sciencedirect.com/science/article/pii/S1751570X23001255?dgcid=coauthor), [[arXiv]](https://arxiv.org/pdf/2106.04762)*
