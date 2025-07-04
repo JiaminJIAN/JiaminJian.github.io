@@ -18,6 +18,7 @@ author_profile: true
 - Department of Industrial Engineering and Operations Research, University of California, Berkeley, Prof. Xin Guo’s group meeting, December 1, 2020
 
 **Conferences attendance**
+- Byrne B2A2 (Back to Ann Arbor) Conference on Stochastic Analysis in Finance and Insurance, University of Michigan, Ann Arbor, June 6-9, 2025
 - 12th Western Conference on Mathematical Finance, University of Southern California, Los Angeles, March 21-22, 2025
 - Symposium on Frontiers of Mathematics and Analysis, Control and Application of Complex Systems, Shandong University, Online, November 15, 2023
 - SIAM Conference on Financial Mathematics and Engineering, Philadelphia, June 6-9, 2023
