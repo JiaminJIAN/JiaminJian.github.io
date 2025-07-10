@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoctoral Assistant Professor in the [Department of Mathematics](https://lsa.umich.edu/math) at [University of Michigan](https://umich.edu). My research interests include stochastic control, mean field games, and financial mathematics.
+I am a Postdoctoral Assistant Professor in the [Department of Mathematics](https://lsa.umich.edu/math) at [University of Michigan](https://umich.edu) working with Prof. [Erhan Bayraktar](https://sites.lsa.umich.edu/erhan/) and Prof. [Asaf Cohen](https://sites.google.com/site/asafcohentau/). My research interests include stochastic control, mean field games, and financial mathematics.
 
 Before that, I got my Ph.D. in the [Department of Mathematical sciences](https://www.wpi.edu/academics/departments/mathematical-sciences) at [Worcester Polytechnic Institute](https://www.wpi.edu) in May 2024, under the supervision of Prof. [Qingshuo Song](https://www.wpi.edu/people/faculty/qsong).
 
