@@ -89,12 +89,12 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=7NrMYDEAAAAJ&hl=en"
   email            : "jiaminj@umich.edu"
   researchgate     : "https://www.researchgate.net/profile/Jiamin-Jian"
-  uri              : "https://jiaminjian.github.io"
+  uri              : #"https://jiaminjian.github.io"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  arXiv            : "https://arxiv.org/a/jian_j_1.html"
   foursquare       :
   github           : #"JiaminJIAN"
   google_plus      :
