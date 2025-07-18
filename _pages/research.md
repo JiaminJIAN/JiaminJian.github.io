@@ -8,7 +8,7 @@ author_profile: true
 **Preprints**
 1. Turnpike properties in linear quadratic Gaussian $N$-player differential games.  
    With Asaf Cohen.
-   *[[arXiv]](https://arxiv.org/pdf/2507.11632)*
+   *[[arXiv]](https://arxiv.org/pdf/2507.11632v1)*
 1. Ergodicity and turnpike properties of linear-quadratic mean field control problems.  
    With Erhan Bayraktar.
    *[[arXiv]](https://arxiv.org/pdf/2502.08935)*
