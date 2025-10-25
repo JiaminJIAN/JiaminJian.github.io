@@ -7,6 +7,8 @@ author_profile: true
 
 
 **Invited talks**
+- 9th Eastern Conference on Mathematical Finance, Carnegie Mellon University, October 24, 2025
+- Department of Mathematical Sciences Colloquium, Worcester Polytechnic Institute, October 3, 2025
 - Financial/Actuarial Mathematics Seminar, University of Michigan, September 25, 2024
 - Mathematics Seminar, School of Mathematics and Statistics, Huazhong University of Science and Technology, June 25, 2024
 - Mathematics Seminar, School of Control Science and Engineering, Shandong University, May 28, 2024
@@ -18,6 +20,7 @@ author_profile: true
 - Department of Industrial Engineering and Operations Research, University of California, Berkeley, Prof. Xin Guo’s group meeting, December 1, 2020
 
 **Conferences attendance**
+- 9th Eastern Conference on Mathematical Finance, Carnegie Mellon University, October 24-25, 2025
 - Byrne B2A2 (Back to Ann Arbor) Conference on Stochastic Analysis in Finance and Insurance, University of Michigan, Ann Arbor, June 6-9, 2025
 - 12th Western Conference on Mathematical Finance, University of Southern California, Los Angeles, March 21-22, 2025
 - Symposium on Frontiers of Mathematics and Analysis, Control and Application of Complex Systems, Shandong University, Online, November 15, 2023
