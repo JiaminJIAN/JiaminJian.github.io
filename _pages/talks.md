@@ -7,7 +7,7 @@ author_profile: true
 
 
 **Invited talks**
-- 9th Eastern Conference on Mathematical Finance, Carnegie Mellon University, October 24, 2025
+- 9th Eastern Conference on Mathematical Finance, Carnegie Mellon University, Pittsburg, October 24, 2025
 - Department of Mathematical Sciences Colloquium, Worcester Polytechnic Institute, October 3, 2025
 - Financial/Actuarial Mathematics Seminar, University of Michigan, September 25, 2024
 - Mathematics Seminar, School of Mathematics and Statistics, Huazhong University of Science and Technology, June 25, 2024
