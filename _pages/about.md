@@ -17,7 +17,7 @@ I also hold a master's degree in Mathematical Finance and Statistics from [City 
 Contact
 ======
 - Email: jiaminj@umich.edu
-- Address: 2074 East Hall, 530 Church Street, Ann Arbor, MI 48109-1043
+- Address: 1855 East Hall, 530 Church Street, Ann Arbor, MI 48109-1043
 <!--  [Curriculum Vitae](https://github.com/JiaminJIAN/JiaminJian.github.io/blob/master/assets/CV_Jiamin%20Jian.pdf) -->
 
 
