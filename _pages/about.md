@@ -13,7 +13,7 @@ I am a Postdoctoral Assistant Professor in the [Department of Mathematics](https
 
 Before that, I got my Ph.D. in the [Department of Mathematical sciences](https://www.wpi.edu/academics/departments/mathematical-sciences) at [Worcester Polytechnic Institute](https://www.wpi.edu) in May 2024, under the supervision of Prof. [Qingshuo Song](https://qsongatwpi.github.io/?_gl=1*yzk9tp*_ga*NDQxMzI4NTY2LjE3NTEzNDExNzU.*_ga_RE35PKQB7J*czE3NTIxODU3MTMkbzMkZzAkdDE3NTIxODU3MzAkajU4JGwwJGgw*_gcl_au*MzM2NDMzNzE0LjE3NTEzNDExNzU.).
 
-I also hold a master's degree in Mathematical Finance and Statistics from [City University of Hong Kong](https://www.cityu.edu.hk/en) (July 2019) and bachelor's degrees in Mathematics and Applied Mathematics, and Financial Management from [Nankai University](https://en.nankai.edu.cn) (June 2018).
+% I also hold a master's degree in Mathematical Finance and Statistics from [City University of Hong Kong](https://www.cityu.edu.hk/en) (July 2019) and bachelor's degrees in Mathematics and Applied Mathematics, and Financial Management from [Nankai University](https://en.nankai.edu.cn) (June 2018).
 
 Contact
 ======
