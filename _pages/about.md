@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-<a href="https://example.com" style="text-decoration:none;">
-
 
 I am a Postdoctoral Assistant Professor in the Department of Mathematics at University of Michigan working with Prof. [Erhan Bayraktar](https://sites.lsa.umich.edu/erhan/) and Prof. [Asaf Cohen](https://sites.google.com/site/asafcohentau/). My research interests include stochastic control, mean field games, and financial mathematics.
 
