@@ -5,7 +5,7 @@ author_profile: true
 ---
 <br>
 
-<a href="https://example.com" style="text-decoration:none;">
+
 
 **Preprints**
 1. Turnpike properties in linear quadratic Gaussian $N$-player differential games.  
