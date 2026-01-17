@@ -8,6 +8,9 @@ author_profile: true
 
 
 **Preprints**
+1. Convergence and turnpike properties of linear-quadratic mean field control problems with common noise.  
+   With Erhan Bayraktar.
+   [[<font color="green">arXiv</font>](https://arxiv.org/pdf/2601.07815)]
 1. Turnpike properties in linear quadratic Gaussian $N$-player differential games.  
    With Asaf Cohen.
    [[<font color="green">arXiv</font>](https://arxiv.org/pdf/2507.11632)]
