@@ -20,8 +20,8 @@ author_profile: true
 
 **Publications**
 1. Long-time behaviors of stochastic linear-quadratic optimal control problems.  
-   With Sixian Jin, Qingshuo Song and Jiongmin Yong.
-   ***Applied Mathematics & Optimization**, Vol. 93, Article 46, 40 pages, 2026.* [[<font color="green">Journal</font>](https://link.springer.com/article/10.1007/s00245-026-10397-0)], [[<font color="green">arXiv</font>](https://arxiv.org/pdf/2409.11633) 
+   With Sixian Jin, Qingshuo Song and Jiongmin Yong. 
+   ***Applied Mathematics & Optimization**, Vol. 93, Article 46, 40 pages, 2026.* [[<font color="green">Journal</font>](https://link.springer.com/article/10.1007/s00245-026-10397-0)], [[<font color="green">arXiv</font>](https://arxiv.org/pdf/2409.11633)] 
 1. On modified Euler schemes for McKean-Valsov stochastic differential equations with super-linear coefficients.  
    With Qingshuo Song, Xiaojie Wang, Zhongqiang Zhang, and Yuying Zhao.  
    ***Automatica**, Vol. 177 (112284), 15 pages, 2025.* [[<font color="green">Journal</font>](https://www.sciencedirect.com/science/article/pii/S0005109825001761)], [[<font color="green">arXiv</font>](https://arxiv.org/pdf/2502.05057)] 
