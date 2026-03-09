@@ -30,7 +30,7 @@ author_profile: true
    ***Mathematical Methods of Operations Research**, Vol. 99, No. 3, 233-270, 2024.* [[<font color="green">Journal</font>](https://link.springer.com/article/10.1007/s00186-024-00863-2)], [[<font color="green">arXiv</font>](https://arxiv.org/pdf/2307.00695)]
 1. The convergence rate of the equilibrium measure for the hybrid LQG mean field game.  
    With Peiyao Lai, Qingshuo Song, and Jiaxuan Ye.  
-   ***Nonlinear Analysis: Hybrid Systems**, Vol. 52, 28 pages, 2024.* [[<font color="green">Journal</font>](https://www.sciencedirect.com/science/article/pii/S1751570X23001255?dgcid=coauthor)], [[<font color="green">arXiv</font>](https://arxiv.org/pdf/2106.04762)]
+   ***Nonlinear Analysis: Hybrid Systems**, Vol. 52 (101454), 28 pages, 2024.* [[<font color="green">Journal</font>](https://www.sciencedirect.com/science/article/pii/S1751570X23001255?dgcid=coauthor)], [[<font color="green">arXiv</font>](https://arxiv.org/pdf/2106.04762)]
 1. On the graphon mean field game equations: Individual agent affine dynamics and mean field dependent performance functions.  
    With Peter E. Caines, Daniel Ho, Minyi Huang, and Qingshuo Song.  
    ***ESAIM: Control, Optimisation and Calculus of Variations**, Vol. 28, Article 24, 24 pages, 2022.* [[<font color="green">Journal</font>](https://www.esaim-cocv.org/articles/cocv/abs/2022/01/cocv210017/cocv210017.html)], [[<font color="green">arXiv</font>](https://arxiv.org/pdf/2009.12144)]
