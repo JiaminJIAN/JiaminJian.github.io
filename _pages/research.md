@@ -18,7 +18,7 @@ author_profile: true
 **Publications**
 1. Turnpike properties in linear quadratic Gaussian $N$-player differential games.  
    With Asaf Cohen.  
-   ***ESAIM: Control, Optimisation and Calculus of Variations**, to appear.* [[<font color="green">Journal</font>](https://www.esaim-cocv.org/articles/cocv/abs/2026/01/cocv250233/cocv250233.html)], [[<font color="green">arXiv</font>](https://arxiv.org/pdf/2507.11632)] 
+   ***ESAIM: Control, Optimisation and Calculus of Variations**, Vol. 32, Article 47, 67 pages, 2026.* [[<font color="green">Journal</font>](https://www.esaim-cocv.org/articles/cocv/abs/2026/01/cocv250233/cocv250233.html)], [[<font color="green">arXiv</font>](https://arxiv.org/pdf/2507.11632)] 
 1. Long-time behaviors of stochastic linear-quadratic optimal control problems.  
    With Sixian Jin, Qingshuo Song and Jiongmin Yong.    
    ***Applied Mathematics & Optimization**, Vol. 93, Article 46, 40 pages, 2026.* [[<font color="green">Journal</font>](https://link.springer.com/article/10.1007/s00245-026-10397-0)], [[<font color="green">arXiv</font>](https://arxiv.org/pdf/2409.11633)] 
