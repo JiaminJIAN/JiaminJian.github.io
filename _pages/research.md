@@ -8,6 +8,9 @@ author_profile: true
 
 
 **Preprints**
+1. Long-time behavior and turnpike properties of linear-quadratic graphon mean field control problems.  
+   With Erhan Bayraktar and Zhongyuan Cao.
+   [[<font color="green">arXiv</font>](https://arxiv.org/pdf/2607.18000)]
 1. Convergence and turnpike properties of linear-quadratic mean field control problems with common noise.  
    With Erhan Bayraktar.
    [[<font color="green">arXiv</font>](https://arxiv.org/pdf/2601.07815)]
