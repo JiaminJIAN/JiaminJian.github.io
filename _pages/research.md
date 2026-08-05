@@ -11,9 +11,9 @@ author_profile: true
 1. Long-time behavior and turnpike properties of linear-quadratic graphon mean field control problems.  
    With Erhan Bayraktar and Zhongyuan Cao.
    [[<font color="green">arXiv</font>](https://arxiv.org/pdf/2607.18000)]
-1. Convergence and turnpike properties of linear-quadratic mean field control problems with common noise.  
+1. Uniform-in-time convergence and turnpike properties of linear-quadratic mean field control problems with common noise.  
    With Erhan Bayraktar.
-   [[<font color="green">arXiv</font>](https://arxiv.org/pdf/2601.07815)]
+   [[<font color="green">arXiv</font>](https://arxiv.org/pdf/2601.07815v2)]
 1. Ergodicity and turnpike properties of linear-quadratic mean field control problems.  
    With Erhan Bayraktar.
    [[<font color="green">arXiv</font>](https://arxiv.org/pdf/2502.08935)]
