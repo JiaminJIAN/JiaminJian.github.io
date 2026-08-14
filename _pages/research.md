@@ -10,30 +10,30 @@ author_profile: true
 **Preprints**
 1. Long-time behavior and turnpike properties of linear-quadratic graphon mean field control problems.  
    With Erhan Bayraktar and Zhongyuan Cao.
-   [[<font color="green">arXiv</font>](https://arxiv.org/pdf/2607.18000)]
+   [[<font color="green">arXiv</font>](https://arxiv.org/abs/2607.18000)]
 1. Uniform-in-time convergence and turnpike properties of linear-quadratic mean field control problems with common noise.  
    With Erhan Bayraktar.
-   [[<font color="green">arXiv</font>](https://arxiv.org/pdf/2601.07815v2)]
+   [[<font color="green">arXiv</font>](https://arxiv.org/abs/2601.07815)]
 1. Ergodicity and turnpike properties of linear-quadratic mean field control problems.  
    With Erhan Bayraktar.
-   [[<font color="green">arXiv</font>](https://arxiv.org/pdf/2502.08935)]
+   [[<font color="green">arXiv</font>](https://arxiv.org/abs/2502.08935)]
 
 **Publications**
 1. Turnpike properties in linear quadratic Gaussian $N$-player differential games.  
    With Asaf Cohen.  
-   ***ESAIM: Control, Optimisation and Calculus of Variations**, Vol. 32, Article 47, 67 pages, 2026.* [[<font color="green">Journal</font>](https://www.esaim-cocv.org/articles/cocv/abs/2026/01/cocv250233/cocv250233.html)], [[<font color="green">arXiv</font>](https://arxiv.org/pdf/2507.11632)] 
+   ***ESAIM: Control, Optimisation and Calculus of Variations**, Vol. 32, Article 47, 67 pages, 2026.* [[<font color="green">Journal</font>](https://www.esaim-cocv.org/articles/cocv/abs/2026/01/cocv250233/cocv250233.html)], [[<font color="green">arXiv</font>](https://arxiv.org/abs/2507.11632)] 
 1. Long-time behaviors of stochastic linear-quadratic optimal control problems.  
    With Sixian Jin, Qingshuo Song and Jiongmin Yong.    
-   ***Applied Mathematics & Optimization**, Vol. 93, Article 46, 40 pages, 2026.* [[<font color="green">Journal</font>](https://link.springer.com/article/10.1007/s00245-026-10397-0)], [[<font color="green">arXiv</font>](https://arxiv.org/pdf/2409.11633)] 
+   ***Applied Mathematics & Optimization**, Vol. 93, Article 46, 40 pages, 2026.* [[<font color="green">Journal</font>](https://link.springer.com/article/10.1007/s00245-026-10397-0)], [[<font color="green">arXiv</font>](https://arxiv.org/abs/2409.11633)] 
 1. On modified Euler schemes for McKean-Valsov stochastic differential equations with super-linear coefficients.  
    With Qingshuo Song, Xiaojie Wang, Zhongqiang Zhang, and Yuying Zhao.  
-   ***Automatica**, Vol. 177 (112284), 15 pages, 2025.* [[<font color="green">Journal</font>](https://www.sciencedirect.com/science/article/pii/S0005109825001761)], [[<font color="green">arXiv</font>](https://arxiv.org/pdf/2502.05057)] 
+   ***Automatica**, Vol. 177 (112284), 15 pages, 2025.* [[<font color="green">Journal</font>](https://www.sciencedirect.com/science/article/pii/S0005109825001761)], [[<font color="green">arXiv</font>](https://arxiv.org/abs/2502.05057)] 
 1. Convergence rate of LQG mean field games with common noise.  
    With Qingshuo Song and Jiaxuan Ye.   
-   ***Mathematical Methods of Operations Research**, Vol. 99, No. 3, 233-270, 2024.* [[<font color="green">Journal</font>](https://link.springer.com/article/10.1007/s00186-024-00863-2)], [[<font color="green">arXiv</font>](https://arxiv.org/pdf/2307.00695)] 
+   ***Mathematical Methods of Operations Research**, Vol. 99, No. 3, 233-270, 2024.* [[<font color="green">Journal</font>](https://link.springer.com/article/10.1007/s00186-024-00863-2)], [[<font color="green">arXiv</font>](https://arxiv.org/abs/2307.00695)] 
 1. The convergence rate of the equilibrium measure for the hybrid LQG mean field game.  
    With Peiyao Lai, Qingshuo Song, and Jiaxuan Ye.  
-   ***Nonlinear Analysis: Hybrid Systems**, Vol. 52 (101454), 28 pages, 2024.* [[<font color="green">Journal</font>](https://www.sciencedirect.com/science/article/pii/S1751570X23001255?dgcid=coauthor)], [[<font color="green">arXiv</font>](https://arxiv.org/pdf/2106.04762)] 
+   ***Nonlinear Analysis: Hybrid Systems**, Vol. 52 (101454), 28 pages, 2024.* [[<font color="green">Journal</font>](https://www.sciencedirect.com/science/article/pii/S1751570X23001255?dgcid=coauthor)], [[<font color="green">arXiv</font>](https://arxiv.org/abs/2106.04762)] 
 1. On the graphon mean field game equations: Individual agent affine dynamics and mean field dependent performance functions.   
    With Peter E. Caines, Daniel Ho, Minyi Huang, and Qingshuo Song.  
-   ***ESAIM: Control, Optimisation and Calculus of Variations**, Vol. 28, Article 24, 24 pages, 2022.* [[<font color="green">Journal</font>](https://www.esaim-cocv.org/articles/cocv/abs/2022/01/cocv210017/cocv210017.html)], [[<font color="green">arXiv</font>](https://arxiv.org/pdf/2009.12144)]
+   ***ESAIM: Control, Optimisation and Calculus of Variations**, Vol. 28, Article 24, 24 pages, 2022.* [[<font color="green">Journal</font>](https://www.esaim-cocv.org/articles/cocv/abs/2022/01/cocv210017/cocv210017.html)], [[<font color="green">arXiv</font>](https://arxiv.org/abs/2009.12144)]
