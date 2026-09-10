@@ -8,6 +8,9 @@ author_profile: true
 
 
 **Preprints**
+1. Quantitative comparison of closed- and open-loop linear-quadratic $N$-player differential games.  
+   With Asaf Cohen.
+   [[<font color="green">arXiv</font>](https://arxiv.org/abs/2609.06233)]
 1. Long-time behavior and turnpike properties of linear-quadratic graphon mean field control problems.  
    With Erhan Bayraktar and Zhongyuan Cao.
    [[<font color="green">arXiv</font>](https://arxiv.org/abs/2607.18000)]
