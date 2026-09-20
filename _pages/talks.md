@@ -22,7 +22,7 @@ author_profile: true
 - Mathematical Finance Seminar, Worcester Polytechnic Institute, December 5, 2022
 - Department of Industrial Engineering and Operations Research, University of California, Berkeley, Prof. Xin Guo’s group meeting, December 1, 2020
 
-**Conferences attendance**
+**Conference attendance**
 - The XIII Bachelier World Congress of the Bachelier Finance Society, University of Bologna, Bologna, Italy, June 29 - July 3, 2026
 - 9th Eastern Conference on Mathematical Finance, Carnegie Mellon University, Pittsburgh, October 24-25, 2025
 - Byrne B2A2 (Back to Ann Arbor) Conference on Stochastic Analysis in Finance and Insurance, University of Michigan, Ann Arbor, June 6-9, 2025
