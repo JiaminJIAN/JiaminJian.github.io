@@ -15,7 +15,7 @@ I received my Ph.D. from the [Department of Mathematical Sciences](https://www.w
 
 I also hold a master's degree in Mathematical Finance and Statistics from [City University of Hong Kong](https://www.cityu.edu.hk/en) (July 2019), and bachelor's degrees in Mathematics and Applied Mathematics and in Financial Management from [Nankai University](https://en.nankai.edu.cn) (June 2018).
 
-Research interest
+Research interests
 ======
 - Long-time behavior of stochastic control and games: ergodicity, stability, and turnpike properties.
 - Large-population and network systems: mean field control and games, common noise, and graphon interactions.
