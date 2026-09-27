@@ -17,9 +17,6 @@ author_profile: true
 1. Uniform-in-time convergence and turnpike properties of linear-quadratic mean field control problems with common noise.  
    With Erhan Bayraktar.
    [[<font color="green">arXiv</font>](https://arxiv.org/abs/2601.07815)]
-1. Ergodicity and turnpike properties of linear-quadratic mean field control problems.  
-   With Erhan Bayraktar.
-   [[<font color="green">arXiv</font>](https://arxiv.org/abs/2502.08935)]
 
 **Publications**
 1. Ergodicity and turnpike properties of linear-quadratic mean field control problems.  
