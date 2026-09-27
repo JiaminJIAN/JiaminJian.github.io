@@ -22,6 +22,9 @@ author_profile: true
    [[<font color="green">arXiv</font>](https://arxiv.org/abs/2502.08935)]
 
 **Publications**
+1. Ergodicity and turnpike properties of linear-quadratic mean field control problems.  
+   With Erhan Bayraktar.
+   *To appear in Applied Mathematics & Optimization.* [[<font color="green">arXiv</font>](https://arxiv.org/abs/2502.08935)]
 1. Turnpike properties in linear quadratic Gaussian $N$-player differential games.  
    With Asaf Cohen.  
    *ESAIM: Control, Optimisation and Calculus of Variations, Vol. 32, Article 47, 67 pages, 2026.* [[<font color="green">Journal</font>](https://www.esaim-cocv.org/articles/cocv/abs/2026/01/cocv250233/cocv250233.html)], [[<font color="green">arXiv</font>](https://arxiv.org/abs/2507.11632)] 
