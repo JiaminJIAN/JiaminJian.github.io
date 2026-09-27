@@ -23,7 +23,7 @@ author_profile: true
 
 **Publications**
 1. Ergodicity and turnpike properties of linear-quadratic mean field control problems.  
-   With Erhan Bayraktar.
+   With Erhan Bayraktar.  
    *To appear in Applied Mathematics & Optimization.* [[<font color="green">arXiv</font>](https://arxiv.org/abs/2502.08935)]
 1. Turnpike properties in linear quadratic Gaussian $N$-player differential games.  
    With Asaf Cohen.  
